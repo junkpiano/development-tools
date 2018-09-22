@@ -57,6 +57,7 @@ GEM
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
+    rake (12.3.1)
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
@@ -81,6 +82,7 @@ PLATFORMS
 
 DEPENDENCIES
   danger
+  rake
   travis
 
 BUNDLED WITH
