@@ -4,14 +4,18 @@
 
 - [Development Tools](#development-tools)
   - [Text Editor](#text-editor)
-    - [Sublime Text](#sublime-text)
-    - [Atom](#atom)
-    - [Emacs](#emacs)
-    - [Xcode](#xcode)
+    - [Sublime Text($80)](#sublime-text80)
+    - [Atom(Free)](#atomfree)
+      - [Configuration](#configuration)
+    - [Emacs(Free)](#emacsfree)
+      - [Configuration](#configuration-1)
+    - [Xcode(Free)](#xcodefree)
+    - [Android Studio(Free)](#android-studiofree)
   - [Skills](#skills)
     - [Swift/Objective-C](#swiftobjective-c)
   - [Contact](#contact)
     - [Blog](#blog)
+  - [Build this doc](#build-this-doc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,48 +24,39 @@ Development Tools
 
 ## Text Editor
 
-### Sublime Text
-
-Description:
+### Sublime Text($80)
 
 This is a lightweight but versatile text editor.
 Sublime text is basically code editor but you can use this for writing plain text.
 
 Sublime text supports multi platforms, windows, mac, linux.
 
-Price:
+### Atom(Free)
 
-$80
+Sometimes I feel like getting user experience from text editor. So Atom is my second choice.
+Atom is desktop application, leveraged by web technology, as well as VSCode.
 
-### Atom
+I used to VSCode in daily work, but I still don't like their UI so much. And I love atom's flexibility, which enables me to customize function by text based configuration.
 
-Configuration:
+#### Configuration
 
 https://github.com/junkpiano/atom
 
-Price:
+### Emacs(Free)
 
-Free
+Emacs is a free software. Emacs is my old friend.
 
-### Emacs
-
-Emacs is a free software.
-
-Configuration:
+#### Configuration
 
 https://github.com/junkpiano/emacs.d
 
-Price:
+### Xcode(Free)
 
-Free
+Xcode is the only one IDE for MacOS/iOS application development.
 
-### Xcode
+### Android Studio(Free)
 
-Configuration:
-
-Price:
-
-Free
+When I do something for Android or Flutter, I am using Android Studio.
 
 ## Skills
 
@@ -74,3 +69,10 @@ Free
 ### Blog
 
 - https://yusuke.cloud/
+
+## Build this doc
+
+```
+npx doctoc .
+```
+
