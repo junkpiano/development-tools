@@ -1,10 +1,10 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
 
 - [Development Tools](#development-tools)
   - [Text Editor](#text-editor)
-    - [Sublime Text($80)](#sublime-text80)
+    - [Sublime Text(\$80)](#sublime-text%5C80)
     - [Atom(Free)](#atomfree)
       - [Configuration](#configuration)
     - [Emacs(Free)](#emacsfree)
@@ -13,18 +13,18 @@
     - [Android Studio(Free)](#android-studiofree)
   - [Skills](#skills)
     - [Swift/Objective-C](#swiftobjective-c)
+    - [JavaScript](#javascript)
   - [Contact](#contact)
     - [Blog](#blog)
   - [Build this doc](#build-this-doc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Development Tools
-=======================
+# Development Tools
 
 ## Text Editor
 
-### Sublime Text($80)
+### Sublime Text(\$80)
 
 This is a lightweight but versatile text editor.
 Sublime text is basically code editor but you can use this for writing plain text.
@@ -64,6 +64,10 @@ When I do something for Android or Flutter, I am using Android Studio.
 
 - [Scientist](https://github.com/junkpiano/scientist)
 
+### JavaScript
+
+- [bobobot](https://github.com/junkpiano/bobobot)
+
 ## Contact
 
 ### Blog
@@ -75,4 +79,3 @@ When I do something for Android or Flutter, I am using Android Studio.
 ```
 npx doctoc .
 ```
-
